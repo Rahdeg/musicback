@@ -32,7 +32,7 @@ exports.login= async function (req,res) {
                     email: decodeValue.email,
                     imageUrl: decodeValue.picture,
                     userId: decodeValue.user_id,
-                    role: 'member',
+                    role: 'admin',
                     authTime:decodeValue.auth_time,
                     emailVerified:decodeValue.email_verified,
                 };
