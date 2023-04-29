@@ -13,7 +13,7 @@ Admin panel for managing music uploads
 
 ## Installation
 
-Clone the repository: git clone https://github.com/your-username/music-app.git
+Clone the repository: git clone https://github.com/Rahdeg/musicback.git
 
 Install dependencies:
 
