@@ -13,4 +13,4 @@ const userSchema = new mongoose.Schema({
 })
 
 
-exports.User = mongoose.model('Musics', userSchema)
+exports.User = mongoose.model('users', userSchema)
